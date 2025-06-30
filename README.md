@@ -41,9 +41,9 @@ Aspiring tech professionals often face:
 
 | Part | Description | Owner |
 |-------|-------------|--------|
-| Part 1 | Role & skill management, self-assessment input, dynamic data handling (JSON/CSV) | Team Member 1 |
+| Part 1 | Role & skill management, self-assessment input, dynamic data handling (JSON/CSV) | **Shreya Kataru** |
 | Part 2 | Skill gap analysis logic, visualization using Matplotlib | **Suchitha Kamarapu** |
-| Part 3 | Personalized roadmap generation, PDF export (FPDF/ReportLab) | Team Member 3 |
+| Part 3 | Personalized roadmap generation, PDF export (FPDF/ReportLab) | **Surya Prakash** |
 
 ---
 
