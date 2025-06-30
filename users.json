@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Suchi",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 2,
+      "SQL": 5,
+      "Power BI": 7,
+      "Python": 9
+    }
+  },
+  {
+    "name": "Suchi",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 3,
+      "SQL": 7,
+      "Power BI": 8,
+      "Python": 1
+    }
+  },
+  {
+    "name": "Suchi",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 3,
+      "SQL": 6,
+      "Power BI": 8,
+      "Python": 5
+    }
+  },
+  {
+    "name": "Suchitha",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 10,
+      "SQL": 6,
+      "Power BI": 8,
+      "Python": 1
+    }
+  },
+  {
+    "name": "Suchitha ",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 5,
+      "SQL": 7,
+      "Power BI": 2,
+      "Python": 8
+    }
+  },
+  {
+    "name": "Suchitha",
+    "status": "Student",
+    "aspiring_role": "Data Analyst",
+    "skills": {
+      "Excel": 5,
+      "SQL": 7,
+      "Power BI": 9,
+      "Python": 1
+    }
+  }
+]

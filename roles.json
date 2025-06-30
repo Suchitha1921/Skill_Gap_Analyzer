@@ -1,0 +1,66 @@
+{
+  "Data Analyst": {
+    "Excel": "Advanced Excel functions and pivot tables",
+    "SQL": "Data extraction and aggregation queries",
+    "Power BI": "Interactive dashboards and DAX",
+    "Python": "Data cleaning with pandas"
+  },
+  "Data Scientist": {
+    "Python (Pandas/Numpy etc)": "Data manipulation and automation",
+    "Machine Learning (Scikit-learn)": "Supervised & unsupervised algorithms and Model building",
+    "Statistics": "Probability, regression, distributions, hypothesis testing",
+    "Deep Learning": "Neural Networks"
+  },
+  "Data Engineer": {
+    "SQL": "ETL pipelines and data warehousing",
+    "Apache Spark": "Big data processing",
+    "Cloud Storage": "S3, BigQuery, or Azure Blob"
+  },
+  "Machine Learning Engineer": {
+    "Python": "End-to-end ML pipeline building",
+    "TensorFlow/PyTorch": "Deep learning models",
+    "Model Deployment": "Flask/FastAPI or MLflow",
+    "Docker": "Containerizing ML applications"
+  },
+  "Cloud Engineer": {
+    "AWS/GCP/Azure": "Compute, storage, IAM",
+    "Docker": "Containerization and portability",
+    "Linux": "Command-line operations and scripting",
+    "CI/CD": "Automated deployment pipelines"
+  },
+  "Backend Developer": {
+    "Python/Node.js": "Server-side development",
+    "Django/Express": "Full-stack backend frameworks",
+    "SQL/NoSQL": "Database schema and querying",
+    "REST API Design": "CRUD operations and endpoints",
+    "Authentication": "OAuth2, JWT, or session-based"
+  },
+  "Frontend Developer": {
+    "HTML/CSS": "UI layout and styling",
+    "JavaScript": "Client-side scripting",
+    "React/Angular": "SPA development",
+    "Redux/Context": "State management",
+    "Testing": "Jest, RTL, or Cypress"
+  },
+   "Cybersecurity Analyst": {
+    "Network Protocols": "TCP/IP, HTTP, DNS",
+    "Security Tools": "Wireshark, Nmap, Burp Suite",
+    "Linux": "Hardening and auditing",
+    "Python": "Automating log analysis",
+    "Threat Detection": "SIEM systems and threat intel"
+  },
+  "UI/UX Designer": {
+    "Figma/XD": "Wireframing and prototyping",
+    "Design Systems": "Consistency and scalability",
+    "User Testing": "Interviews and A/B tests",
+    "Accessibility": "WCAG standards",
+    "UX Writing": "Clarity in microcopy"
+  },
+  "Product Manager": {
+    "Agile/Scrum": "Project execution and ceremonies",
+    "Wireframing": "Basic UI mockups",
+    "Stakeholder Management": "Cross-functional communication",
+    "Analytics Tools": "GA, Mixpanel, or Amplitude",
+    "Roadmapping": "Timeline and priority planning"
+  }
+}
