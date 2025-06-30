@@ -73,3 +73,20 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
+
+📌 Future Enhancements
+Web version with FastAPI / Flask
+
+User accounts for progress tracking
+
+Integration with online learning platforms
+
+🙏 Acknowledgements
+🌟 Special thanks to our mentors at @IDC for their guidance throughout the 30-day challenge.
+🌟 To my teammates — your collaboration turned an idea into reality.
+
+📽️ Watch the Project Presentation
+👉 https://drive.google.com/uc?id=1C5C50Xn0ElYncwCrJBeJ_nc86Nb8BQ4K&export=download
+
+📄 License
+This project is for educational purposes. Feel free to fork and build upon it!
